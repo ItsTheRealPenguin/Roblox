@@ -1,3 +1,4 @@
+--!strict
 --[=[
     [Main]:
     - Server invite: discord.gg/RUERaw7vWN
